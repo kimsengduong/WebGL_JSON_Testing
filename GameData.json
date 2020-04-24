@@ -4,7 +4,7 @@
     "nameData":"'s Biggest Mistake",
     "nameFontSize":"48.0",
     
-    "img":"",
+    "imgUrl":"https://raw.githubusercontent.com/duongkimseng/WebGL_JSON_Testing/master/Image.png",
     "imageSize":{"x":50.0,"y":75.0},
     
     "profileSize":{"x":25.0,"y":25.0},
