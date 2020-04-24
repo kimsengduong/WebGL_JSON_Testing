@@ -1,1 +1,10 @@
-{"title":"Testing","imageSize":{"x":50.0,"y":75.0},"profileSize":{"x":25.0,"y":25.0},"profilePos":{"x":0.0,"y":10.0}}
+{
+  "title":"Testing",
+  "imageSize":{"x":50.0,
+               "y":75.0},
+  "profileSize":{"x":25.0,
+                 "y":25.0},
+  "profilePos":{"x":0.0,
+                "y":10.0},
+  "answers":["a","b","c"]
+}
