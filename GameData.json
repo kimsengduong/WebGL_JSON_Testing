@@ -1,10 +1,17 @@
 {
-  "title":"Testing",
-  "imageSize":{"x":50.0,
-               "y":75.0},
-  "profileSize":{"x":25.0,
-                 "y":25.0},
-  "profilePos":{"x":0.0,
-                "y":10.0},
-  "answers":["a","b","c"]
+    "title":"Testing",
+
+    "nameData":"'s Biggest Mistake",
+    "nameFontSize":"48.0",
+    
+    "img":"",
+    "imageSize":{"x":50.0,"y":75.0},
+    
+    "profileSize":{"x":25.0,"y":25.0},
+    "profilePos":{"x":0.0,"y":10.0},
+    
+    "result":["Never confess","Sleeps Late","Wakes up late", "Swears a lot"],
+    "resultFieldSize":{"x":0.0, "y":0.0},
+    "resultFieldPos":{"x":0.0,"y":0.0},
+    "fontSize":"30.0"
 }
