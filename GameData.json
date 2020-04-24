@@ -11,7 +11,7 @@
     "profilePos":{"x":0.0,"y":10.0},
     
     "result":["Never confess","Sleeps Late","Wakes up late", "Swears a lot"],
-    "resultFieldSize":{"x":0.0, "y":0.0},
-    "resultFieldPos":{"x":0.0,"y":0.0},
+    "resultFieldSize":{"x":400, "y":0.0},
+    "resultFieldPos":{"x":0.0,"y":500},
     "fontSize":"30.0"
 }
